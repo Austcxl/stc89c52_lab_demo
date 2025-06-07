@@ -5,7 +5,7 @@
 
 
 # 说明
-#### - 开发环境:  VSCode  Python3 KeilMDK
+- 开发环境:  VSCode  Python3 KeilMDK
 
-#### - 资料:程序代码 芯片手册 电路图等
+- 资料:程序代码 芯片手册 电路图等
 
